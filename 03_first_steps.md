@@ -11,9 +11,9 @@ Now that you have a foundational background, it’s important to undergo an asse
 
 ### Key Questions
 
-1. Does your city have a [Code for America ](http://www.codeforamerica.org/brigade/)[Brigade](http://www.google.com/url?q=http%3A%2F%2Fwww.codeforamerica.org%2Fbrigade%2F&sa=D&sntz=1&usg=AFQjCNG9CzrrkUTALgF1IfFxc5ilNGeXpA)?
+1. Does your city have a [Code for America Brigade](http://www.codeforamerica.org/brigade/)?
 
-2. Is Bloomberg/Sunlight Foundation "[What Works](https://sunlightfoundation.com/blog/2015/04/20/opening-data-for-stronger-cities-the-what-works-cities-initiative/)" active Your City?
+2. Is Bloomberg/Sunlight Foundation ["What Works"](https://sunlightfoundation.com/blog/2015/04/20/opening-data-for-stronger-cities-the-what-works-cities-initiative/) active Your City?
 
 3. Does your city or county have an [Open Data Policy or an open data portal](https://sunlightfoundation.com/policy/opendatamap/)?
 
@@ -21,7 +21,7 @@ Now that you have a foundational background, it’s important to undergo an asse
 
 ### Your Kick-Off Event
 
-1. [How to plan and deliver a successful ](https://docs.google.com/document/d/1FGVDH2Gs99a5gp9l37JFmBAtqu9q6lygQRbgHoPuB6U/edit)[Kick-Off Roundtable](https://docs.google.com/document/d/1FGVDH2Gs99a5gp9l37JFmBAtqu9q6lygQRbgHoPuB6U/edit)
+1. [How to plan and deliver a successful Kick-Off Roundtable](https://docs.google.com/document/d/1FGVDH2Gs99a5gp9l37JFmBAtqu9q6lygQRbgHoPuB6U/edit)
 
 2. [Sample Sacramento Invitation](https://docs.google.com/document/d/1cfW5rRIZ_2iYOJRCLo142cC0QiMtrb6MuBkrKC0oLo0/edit)
 
@@ -39,7 +39,7 @@ Now that you have a foundational background, it’s important to undergo an asse
 
 8. Sample roundtable breakout session [framework](https://docs.google.com/document/d/1VSHlb_KHidyh6EeezFr228Kg7DTx2erxugXOk5FK33Y/edit)
 
-9. Post-roundtable [fo](https://docs.google.com/document/d/14qblMrdVEKwooZcyE3bdSH9IyfF_QjwkBrOpwengvE0/edit)[llow-up note](https://docs.google.com/document/d/14qblMrdVEKwooZcyE3bdSH9IyfF_QjwkBrOpwengvE0/edit) and [post-Roundtable event survey](https://docs.google.com/forms/d/1JCyVjnYtK-E1gdILmHI-o29i3JXFSlG5m3Ppkq_BXao/viewform)
+9. Post-roundtable [follow-up note](https://docs.google.com/document/d/14qblMrdVEKwooZcyE3bdSH9IyfF_QjwkBrOpwengvE0/edit) and [post-Roundtable event survey](https://docs.google.com/forms/d/1JCyVjnYtK-E1gdILmHI-o29i3JXFSlG5m3Ppkq_BXao/viewform)
 
 10. Post-roundtable [Survey Results / Feedback from Sacramento](https://drive.google.com/open?id=0B-gzZmgq0h0uQVZHR3NRUHcyanc&authuser=0)
 

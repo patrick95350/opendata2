@@ -17,15 +17,15 @@ Your main goal as an Ambassador is to paint a picture for both government offici
 
 3. [What is Open Data ](http://www.govtech.com/data/Got-Data-Make-it-Open-Data-with-These-Tips.html)and examples of [Local Open Data Policies](http://sunlightfoundation.com/policy/local/)?
 
-4. The importance of tying Open Data to [an issue and service delivery](http://www.govtech.com/data/3-Ways-Cities-Can-Grow-Open-Data-Projects.html?utm_source=related&utm_medium=direct&utm_campaign=3-Ways-Cities-Can-Grow-Open-Data-Projects)[ ](http://www.govtech.com/data/3-Ways-Cities-Can-Grow-Open-Data-Projects.html?utm_source=related&utm_medium=direct&utm_campaign=3-Ways-Cities-Can-Grow-Open-Data-Projects)improvement
+4. The importance of tying Open Data to [an issue and service delivery](http://www.govtech.com/data/3-Ways-Cities-Can-Grow-Open-Data-Projects.html)improvement
 
-5. [California Health and ](https://chhs.data.ca.gov/)[Human Services (C](https://chhs.data.ca.gov/)[HHS) Open Data Portal](https://chhs.data.ca.gov/) & [CHHS Open Data Handbook](http://www.chhs.ca.gov/documents/opendatahandbook.pdf) and best practices
+5. [California Health and Human Services (CHHS) Open Data Portal](https://chhs.data.ca.gov/) & [CHHS Open Data Handbook](http://www.chhs.ca.gov/documents/opendatahandbook.pdf) and best practices
 
-6. CHHS [Datasets currently ](https://chhs.data.ca.gov/browse)[available](https://chhs.data.ca.gov/browse)
+6. CHHS [Datasets currently available](https://chhs.data.ca.gov/browse)
 
-7. CHHS [Datasets existing and to be ](https://docs.google.com/document/d/14ZfqHQcEdMr703VROcDva7ozVEeR214AeVH2uVqh0pQ/edit#heading=h.6jy2ftm2f811)[released](https://docs.google.com/document/d/14ZfqHQcEdMr703VROcDva7ozVEeR214AeVH2uVqh0pQ/edit#heading=h.6jy2ftm2f811)
+7. CHHS [Datasets existing and to be released](https://docs.google.com/document/d/14ZfqHQcEdMr703VROcDva7ozVEeR214AeVH2uVqh0pQ/edit#heading=h.6jy2ftm2f811)
 
-8. Signing up for the [California Department of Public Health (CDPH) open data mailing li](http://apps.cdph.ca.gov/listsubscribe/default.aspx?list=cdphopendata)[st](http://apps.cdph.ca.gov/listsubscribe/default.aspx?list=cdphopendata)
+8. Signing up for the [California Department of Public Health (CDPH) open data mailing list](http://apps.cdph.ca.gov/listsubscribe/default.aspx?list=cdphopendata)
 
 9. Important Health Data Resources:
 
@@ -45,7 +45,7 @@ Your main goal as an Ambassador is to paint a picture for both government offici
 
 1. California HealthCare Foundation (CHCF) Case Studies: [In Plain Sight - Cheryl Wold](http://www.chcf.org/programs/marketmonitor/open-data/introduction) which provides an overview for experts and generalists, to understand what’s working nationally and how to leverage open data for healthier communities
 
-2. UCLA [AskCHIS Neighborhood Edition](http://askchisne.ucla.edu/ask/SitePages/Login.aspx?ReturnUrl=%2fask%2f_layouts%2fAuthenticate.aspx%3fSource%3d%252Fask%252F%255Flayouts%252Fne%252Fdashboard%252Easpx&Source=%2Fask%2F_layouts%2Fne%2Fdashboard%2Easpx), provides zip-code level data on important health indicators for individuals[ ](http://www.census.gov/)
+2. UCLA [AskCHIS Neighborhood Edition](http://askchisne.ucla.edu/ask/SitePages/Login.aspx?ReturnUrl=%2fask%2f_layouts%2fAuthenticate.aspx%3fSource%3d%252Fask%252F%255Flayouts%252Fne%252Fdashboard%252Easpx&Source=%2Fask%2F_layouts%2Fne%2Fdashboard%2Easpx), provides zip-code level data on important health indicators for individuals
 
 3. US Census [Health Track Data](http://www.census.gov/topics/health/data.html)
 
