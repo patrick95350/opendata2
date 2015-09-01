@@ -19,7 +19,7 @@ Your main goal as an Ambassador is to paint a picture for both government offici
 
 4. The importance of tying Open Data to [an issue and service delivery](http://www.govtech.com/data/3-Ways-Cities-Can-Grow-Open-Data-Projects.html)improvement
 
-5. [California Health and Human Services (CHHS) Open Data Portal](https://chhs.data.ca.gov/) & [CHHS Open Data Handbook](http://www.chhs.ca.gov/documents/opendatahandbook.pdf) and best practices
+5. [California Health and Human Services (CHHS) Open Data Portal](https://chhs.data.ca.gov/) & [CHHS Open Data Handbook](http://chhsopendata.github.io/) and best practices
 
 6. CHHS [Datasets currently available](https://chhs.data.ca.gov/browse)
 
@@ -39,7 +39,7 @@ Your main goal as an Ambassador is to paint a picture for both government offici
 
     e. Code for America [Health Projects](http://www.codeforamerica.org/blog/category/health-2/)
 
-    f. Open Source Projects from [Conde Montage](https://www.codemontage.com/projects)
+    f. Open Source Projects from [Code Montage](https://www.codemontage.com/projects)
 
 ### Other Helpful Resources and Health Data/Policy Research
 
