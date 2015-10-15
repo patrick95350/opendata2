@@ -22,5 +22,5 @@ One of the key elements of your time as a Health Data Ambassadors is the develop
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="/04-public-relations">&laquo; Prev</a>
-  <span class="pagination-item newer" href="/governance">Next &raquo;</span>
+  <a class="pagination-item newer" href="/06-agile-development">Next &raquo;</a>
 </div>
