@@ -23,7 +23,7 @@ Your main goal as an Ambassador is to paint a picture for both government offici
 
 6. CHHS [Datasets currently available](https://chhs.data.ca.gov/browse)
 
-7. CHHS [Datasets existing and to be released](https://docs.google.com/document/d/14ZfqHQcEdMr703VROcDva7ozVEeR214AeVH2uVqh0pQ/edit#heading=h.6jy2ftm2f811)
+7. CHHS [Datasets existing and to be released](https://drive.google.com/file/d/0B42WJ5EAzpBtYTdkWG5uLWt3VWM/view)
 
 8. Signing up for the [California Department of Public Health (CDPH) open data mailing list](http://apps.cdph.ca.gov/listsubscribe/default.aspx?list=cdphopendata)
 
