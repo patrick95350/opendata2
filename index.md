@@ -26,5 +26,5 @@ Our Health Data Ambassadors also worked to ensure that CHHS health data reached 
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="/01-getting-started">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/01-getting-started">Next &raquo;</a>
 </div>
